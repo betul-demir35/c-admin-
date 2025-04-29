@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "y6jfiJBBfgY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\betul\\OneDrive\\Desktop\\ödevler\\görselgame\\görselgame\\görselgame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\betul\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.3\\system.configuration.configurationmanager.9.0.3.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\system.data.oledb\\9.0.3\\system.data.oledb.9.0.3.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.3\\system.diagnostics.eventlog.9.0.3.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.3\\system.diagnostics.performancecounter.9.0.3.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.3\\system.security.cryptography.protecteddata.9.0.3.nupkg.sha512",
+    "C:\\Users\\betul\\.nuget\\packages\\wmplib\\1.0.0\\wmplib.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WMPLib 1.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WMPLib",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
